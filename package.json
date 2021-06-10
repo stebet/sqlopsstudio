@@ -56,7 +56,7 @@
     "jquery.event.drag": "2.2.2",
     "jschardet": "^1.4.2",
     "make-error": "^1.1.1",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "moment": "^2.15.1",
     "native-keymap": "1.2.5",
     "native-watchdog": "0.3.0",
